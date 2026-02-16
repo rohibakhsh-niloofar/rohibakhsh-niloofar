@@ -10,6 +10,7 @@
 - Work : <niloofarrohibakhshofficial@gmail.com>
 - Linkedin : [niloofar-rohibakhsh](https://www.linkedin.com/in/niloofar-rohibakhsh)
 
+
 <p align="center">
-<img scr="tinkerbell.gif" width="250"/>
+  <img src="https://github.com/rohibakhsh-niloofar/rohibakhsh-niloofar/blob/main/tinkerbell.gif" width="300"/>
 </p>
